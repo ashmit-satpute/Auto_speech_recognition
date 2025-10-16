@@ -1,5 +1,5 @@
 # Auto_speech_recognition
-This project enables Automatic Speech Recognition on  15 seconds audio streams/clips, using transformer model-based of whisper AI architecture, for transcibing speech into text.
+This project enables Automatic Speech Recognition on  15 seconds audio streams/clips, using transformer model-based of whisper AI architecture which was trained from scratch including model and data, for transcibing speech into text.
 
 FILE STRUCTURE:
 
